@@ -1,0 +1,16 @@
+{
+  "name": "starter-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Nigel Jaure <nigeljaure@creativelab.co.zw> (https://creativelab.co.zw)",
+  "license": "MIT",
+  "homepage": "https/jaurenigel.github.io/colorapp",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
